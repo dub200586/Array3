@@ -1,0 +1,14 @@
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\bin\Debug\netcoreapp3.1\Collection1.exe
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\bin\Debug\netcoreapp3.1\Collection1.deps.json
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\bin\Debug\netcoreapp3.1\Collection1.runtimeconfig.json
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\bin\Debug\netcoreapp3.1\Collection1.runtimeconfig.dev.json
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\bin\Debug\netcoreapp3.1\Collection1.dll
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\bin\Debug\netcoreapp3.1\Collection1.pdb
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\obj\Debug\netcoreapp3.1\Collection1.csproj.AssemblyReference.cache
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\obj\Debug\netcoreapp3.1\Collection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\obj\Debug\netcoreapp3.1\Collection1.AssemblyInfoInputs.cache
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\obj\Debug\netcoreapp3.1\Collection1.AssemblyInfo.cs
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\obj\Debug\netcoreapp3.1\Collection1.csproj.CoreCompileInputs.cache
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\obj\Debug\netcoreapp3.1\Collection1.dll
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\obj\Debug\netcoreapp3.1\Collection1.pdb
+C:\Users\KosTYA\Desktop\Домашка С#\Курс 2\5\Collection1\Collection1\obj\Debug\netcoreapp3.1\Collection1.genruntimeconfig.cache
